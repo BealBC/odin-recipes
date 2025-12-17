@@ -1,1 +1,1 @@
-# odin-recipes
+This project is culmination of learnings from the odin project. Up to this point, I have learned the basics of using the command line to create directories and files on my local machine. I have also learned the basics of cloning a repository from the command line. Now that we have created and cloned a new repo, I will be creating a recipe website to showcase HTML skills. Later, I will use CSS to style this project.
